@@ -1,0 +1,50 @@
+ody {
+    font-family: Arial, sans-serif;
+    background-color: #f2f9ff;
+    text-align: center;
+    padding: 40px;
+  }
+  
+  h1 {
+    color: #0a66c2;
+    font-size: 36px;
+  }
+  
+  p {
+    font-size: 18px;
+    color: #333;
+  }
+  
+  img {
+    margin-top: 20px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+  }
+  
+  a {
+    display: inline-block;
+    margin-top: 10px;
+    color: #0a66c2;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #0a66c2;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #084c9a;
+  }
+  
